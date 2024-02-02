@@ -20,7 +20,7 @@
     "knuth-shuffle": "^1.0.1",
     "postcss-calc": "^5.3.0",
     "postcss-loader": "^0.9.1",
-    "precss": "^1.4.0",
+    "precss": "^4.0.0",
     "screenfull": "^3.0.2",
     "startaudiocontext": "^1.2.0",
     "style-loader": "^0.13.1",
